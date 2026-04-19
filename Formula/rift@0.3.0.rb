@@ -1,5 +1,5 @@
-class Rift < Formula
-  desc "A cli tool to simplify path navigation"
+class RiftAT030 < Formula
+  desc "A cli tool to simplify path navigation (v0.3.0)"
   homepage "https://github.com/gohyuhan/rift"
   license "MIT"
 
